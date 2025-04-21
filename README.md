@@ -45,6 +45,8 @@ This repo consists of installation of :-
 - MySQL is an open-source relational database management system (RDBMS) that is widely used for managing and organizing structured (or tabular) data, and to manage this data
 - FluxCD is an open-source tool designed to implement GitOps for Kubernetes. In simple terms, FluxCD helps automate the deployment and management of applications in Kubernetes clusters.
 
+- Trivy CLI is a versatile and easy-to-use open-source security scanner that detects vulnerabilities, misconfigurations, secrets, and license issues in containers, file systems, Kubernetes, and code repositories, making it ideal for DevSecOps workflows.
+
   <br>You can refer these blogs for getting started, <br/>
     https://blog.knoldus.com/introduction-to-terraform-1/ <br/>
     https://blog.knoldus.com/spinning-up-terraform-configuration-2/ <br/>
